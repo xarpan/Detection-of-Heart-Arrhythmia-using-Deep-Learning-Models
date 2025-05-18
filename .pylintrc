@@ -1,0 +1,6 @@
+[MASTER]
+disable=missing-docstring, too-few-public-methods
+
+[FORMAT]
+indent-string='    '  # Force 4-space indentation
+max-line-length=120
