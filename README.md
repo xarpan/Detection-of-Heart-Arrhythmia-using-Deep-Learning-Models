@@ -45,13 +45,12 @@ Analyze false positives and false negatives for model improvement
 # Getting Started
 
 * Clone the repository:
-
-git clone https://github.com/your-username/heart-arrhythmia-detection.git
-
+     ```bash
+    git clone https://github.com/your-username/heart-arrhythmia-detection.git
+     
 * Install dependencies:
-
-pip install -r requirements.txt
-
+   ```bash
+    pip install -r requirements.txt
 * Run the application (if using Streamlit):
-  
+   ```bash
   streamlit run app.py
